@@ -723,11 +723,13 @@ font-weight: var(--font-medium);
 }
 .portfolio_content{
     padding: 0 1.5rem;
+    margin: 25px;
 }
 .portfolio_img{
     width: 265px;
     border-radius: .5rem;
     justify-self: center;
+    box-shadow: 1px 1px 10px black;
 }
 .portfolio_title{
     font-size: var(--h3-font-size);
